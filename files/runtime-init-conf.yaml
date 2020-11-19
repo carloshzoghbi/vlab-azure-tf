@@ -7,7 +7,7 @@ extension_packages:
           extensionVersion: 3.23.0
         - extensionType: ts
           extensionVersion: 1.15.0
-#extension_services:
+extension_services: []
  #   service_operations:
   #  - extensionType: do
    #   type: url
