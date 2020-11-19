@@ -7,12 +7,12 @@ extension_packages:
           extensionVersion: 3.23.0
         - extensionType: ts
           extensionVersion: 1.15.0
-extension_services:
-    service_operations:
-    - extensionType: do
-      type: url
-      value: https://raw.githubusercontent.com/cavalen/vlab-azure-tf/master/files/do.json
-    - extensionType: as3
-      type: url
-      value: https://raw.githubusercontent.com/cavalen/vlab-azure-tf/master/files/as3.json
+#extension_services:
+ #   service_operations:
+  #  - extensionType: do
+   #   type: url
+    #  value: https://raw.githubusercontent.com/carloshzoghbi/vlab-azure-tf/master/files/do.json
+   # - extensionType: as3
+    #  type: url
+     # value: https://raw.githubusercontent.com/carloshzoghbi/vlab-azure-tf/master/files/as3.json
 
